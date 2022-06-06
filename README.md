@@ -7,6 +7,10 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/50973247/172079521-9f274b61-880b-4b79-8a98-9fc6205970c5.png" alt="PRs welcome!" />
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
