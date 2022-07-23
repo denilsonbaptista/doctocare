@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
- <img src="[https://user-images.githubusercontent.com/50973247/172079521-9f274b61-880b-4b79-8a98-9fc6205970c5.png]" alt="DoctorCare" />
+ <img src="https://user-images.githubusercontent.com/50973247/180613605-75b42ae7-a8ef-43c4-aa90-54b4560825fb.png" alt="DoctorCare" />
 </p>
 
 ## 🚀 Tecnologias
